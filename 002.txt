@@ -1,0 +1,10 @@
+Cash,nalichka
+cat,koshka
+do,delat
+dog,sobaka
+down,vniz
+light,svet
+mine,moj
+rush,speshka
+think,dumat
+wawe,volna
